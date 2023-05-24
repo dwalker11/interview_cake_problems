@@ -1,0 +1,4 @@
+(executable
+ (public_name interview_cake)
+ (name main)
+ (libraries interview_cake))

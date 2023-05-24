@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/interview_cake/META"
+  "_build/install/default/lib/interview_cake/dune-package"
+  "_build/install/default/lib/interview_cake/opam"
+]
+bin: [
+  "_build/install/default/bin/interview_cake"
+]
