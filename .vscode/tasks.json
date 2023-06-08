@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "go: run file",
+			"type": "shell",
+			"command": "go run ${file}",
+			"problemMatcher": [
+				"$go"
+			],
+			"presentation": {
+				"focus": true,
+			}
+		}
+	]
+}
